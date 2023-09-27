@@ -12,4 +12,4 @@
 
 - Find the easiest way to push only the .pdb files whose number suffix is divisible by 10
   `git add *0.pdb;git commit -m "first pdb commit"`
-  ` git push`
+  ` git push` 
